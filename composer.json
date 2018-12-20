@@ -1,5 +1,5 @@
 {
-    "name": "bainternet/php-hooks",
+    "name": "jveelken/php-hooks",
     "description": "A fork of the WordPress filters hook system rolled in to a class to be ported into any PHP-based system",
     "keywords": ["hooks", "actions", "filters"],
     "homepage": "http://bainternet.github.io/PHP-Hooks/",
