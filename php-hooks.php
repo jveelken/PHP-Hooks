@@ -531,7 +531,7 @@ if (!class_exists('Hooks')){
             $function[0]->filter_id = $filter_id_count;
             ++$filter_id_count;
           } else {
-            $obj_idx .= $function[0]->filter_id;
+            $obj_idx .= '\\'. $function[0]->filter_id;
           }
 
           return $obj_idx;
