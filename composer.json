@@ -2,7 +2,7 @@
     "name": "jveelken/php-hooks",
     "description": "A fork of the WordPress filters hook system rolled in to a class to be ported into any PHP-based system",
     "keywords": ["hooks", "actions", "filters"],
-    "homepage": "http://bainternet.github.io/PHP-Hooks/",
+    "homepage": "http://jveelken.github.io/PHP-Hooks/",
     "type": "library",
     "license": "GPL-3.0",
     "authors": [
@@ -12,7 +12,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/bainternet/PHP-Hooks/issues"
+        "issues": "https://github.com/jveelken/PHP-Hooks/issues"
     },
     "autoload":{
         "files": ["php-hooks.php"]
